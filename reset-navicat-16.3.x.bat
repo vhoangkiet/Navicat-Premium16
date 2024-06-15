@@ -48,4 +48,3 @@ echo.
 
 echo Finish, Enjoy it !
 endlocal
-pause
